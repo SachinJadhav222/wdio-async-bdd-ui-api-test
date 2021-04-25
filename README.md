@@ -1,4 +1,7 @@
 # UI and API test automation framework
+*Test Automation for UI and API test project  using WebdriverIO , cucumberjs   and other tools
+ The framework is BDD enabled using cucumber js to create feature file written in Gherkin Language*
+
 
 #### Setup 
 ```
